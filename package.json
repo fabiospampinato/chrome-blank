@@ -1,7 +1,7 @@
 {
   "name": "chrome-blank",
   "description": "Just a blank new tab page.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "prod": "rm -rf dist && mkdir dist && cp src/blank.html dist/blank.html && cp src/manifest.json dist/manifest.json && cp resources/icon/* dist",
     "icons:resize": "cd resources/icon && convert icon.png -resize 16x16 icon-16.png && convert icon.png -resize 32x32 icon-32.png && convert icon.png -resize 48x48 icon-48.png && convert icon.png -resize 64x64 icon-64.png && convert icon.png -resize 128x128 icon-128.png && convert icon.png -resize 256x256 icon-256.png",
