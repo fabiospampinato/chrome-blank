@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Blank",
   "description": "Just a blank new tab page.",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "chrome_url_overrides": {
     "newtab": "./src/newtab/index.html"
   },
