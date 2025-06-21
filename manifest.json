@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Blank",
+  "description": "Just a blank new tab page.",
+  "version": "1.1.0",
+  "chrome_url_overrides": {
+    "newtab": "./src/newtab/index.html"
+  },
+  "icons": {
+    "16": "./resources/icon/icon-16.png",
+    "32": "./resources/icon/icon-32.png",
+    "48": "./resources/icon/icon-48.png",
+    "64": "./resources/icon/icon-64.png",
+    "128": "./resources/icon/icon-128.png",
+    "256": "./resources/icon/icon-256.png"
+  }
+}

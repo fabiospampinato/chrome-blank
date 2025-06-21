@@ -5,7 +5,7 @@ Just a blank new tab page.
 ## Demo
 
 <p align="center">
-  <img src="resources/screenshots/browser.png" width="750" alt="Browser">
+  <img src="resources/demo/browser@2x.png" width="750" alt="Browser">
 </p>
 
 ## License
